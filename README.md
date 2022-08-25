@@ -22,3 +22,4 @@ Open report at `target/site/jacoco/index.html`
 
 * orlando.otero at asimio dot net
 * https://www.linkedin.com/in/ootero
+//
